@@ -19,4 +19,4 @@ Short bio ...
 
 # Person D
 
-Prim
+Prim Pasuwan
